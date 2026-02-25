@@ -10,7 +10,7 @@ class HelloWorld
         int[] array = new int[12];
         Random rnd = new Random();
 
-        Console.WriteLine("Масcив: ");
+        Console.WriteLine("Не Масcив: ");
         for (int i = 0; i < 12; i++)
         {
             array[i] = rnd.Next(71);

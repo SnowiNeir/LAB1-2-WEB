@@ -5,9 +5,7 @@ class HelloWorld
     static void Main()
     {
         Console.OutputEncoding = Encoding.UTF8;
-        Console.WriteLine("Hello world");
-        Console.WriteLine("What?");
-        Console.WriteLine("4");
+        Console.WriteLine("42");
         Console.WriteLine(" x  "); // заголовок таблицы 
         int space = 0;
         for (char x = 'R'; x >= 'A'; x--)
