@@ -7,6 +7,7 @@ class HelloWorld
         Console.OutputEncoding = Encoding.UTF8;
         
         Console.WriteLine("Aga");
+        Console.WriteLine("OKaK");
         Console.WriteLine("x"); // заголовок таблицы 
         int space = 0;
         for (char x = 'R'; x >= 'A'; x--)
