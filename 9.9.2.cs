@@ -8,6 +8,7 @@ class HelloWorld
         Console.OutputEncoding = Encoding.UTF8;
 
         int[] array = new int[12];
+        Console.WriteLine("Проверка!!!")
         Random rnd = new Random();
 
         Console.WriteLine("Масcив: ");
